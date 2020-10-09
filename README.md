@@ -1,4 +1,4 @@
-## Hi, there! I'm shakil  <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/Hi.gif" width="30px">
+## Hi, there! I'm Shakil  <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/Hi.gif" width="30px">
 
 <p align="center">
 <a href="https://github.com/mdkaiom95"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
