@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# How to reach me 📫: <img align="left" width="200" height="150" src="https://github.com/mdkaiom95/mdkaiom95/blob/master/080f909da46192c0db62b76330302b0c.gif?raw=true">
+- Tinkering with interactions on <a href="https://t.me/AlpineProton"> Telegram Channel</a> 🏓
+- Get in touch via <a href="https://t.me/Shakil29">Telegram</a>
