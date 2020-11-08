@@ -1,5 +1,7 @@
 ## Hi, there! I'm Shakil  <img src="https://github.com/mdkaiom95/mdkaiom95/blob/master/Hi.gif" width="30px">
 
+<img src="https://komarev.com/ghpvc/?username=mdkaiom95&style=flat-square" alt="mdkaiom95" /><br>
+
 <p align="center">
 <a href="https://github.com/mdkaiom95"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
 <a href="https://www.instagram.com/md_kaium_hossain"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
