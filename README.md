@@ -1,6 +1,5 @@
 ## Hi, there! I'm Shakil  <img src="https://github.com/mdkaiom95/mdkaiom95/blob/master/Hi.gif" width="30px">
 
-<img src="https://komarev.com/ghpvc/?username=mdkaiom95&style=flat-square" alt="mdkaiom95" /><br>
 
 <p align="center">
 <a href="https://github.com/mdkaiom95"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
@@ -14,20 +13,15 @@
 <img align="center" width="500" height="250"
 src="https://github.com/mdkaiom95/mdkaiom95/blob/master/Logo.png?raw=true">
 
-<!--
-**mdkaiom95/mdkaiom95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# How to reach me 📫: <img align="left" width="200" height="150" src="https://github.com/mdkaiom95/mdkaiom95/blob/master/080f909da46192c0db62b76330302b0c.gif?raw=true">
+- 🔭 I’m currently working on freelancing
+- 🌱 I’m currently learning web design and developing
+- 💬 Ask me anything on <a href="https://t.me/Shakil29">Telegram</a>
+- 📫 How to reach me: <a href="https://www.instagram.com/md_kaium_hossain">Instagram<a/>
+- 😄 Nationality: Bangladeshi
+- ⚡ Fun fact: i love to change device rom everyday 
+  
+# How to reach me 📫: <img align="left" width="180" height="150" src="https://github.com/mdkaiom95/mdkaiom95/blob/master/080f909da46192c0db62b76330302b0c.gif?raw=true">
 - Let's discuss here <a href="https://t.me/AlpineProton"> Telegram Group</a> 🏓
 - Get in touch via <a href="https://t.me/Shakil29">Telegram</a>
