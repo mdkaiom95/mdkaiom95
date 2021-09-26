@@ -15,7 +15,6 @@ src="https://github.com/mdkaiom95/mdkaiom95/blob/master/Logo.png?raw=true">
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on freelancing
 - 🌱 I’m currently learning web design and developing
 - 💬 Ask me anything on <a href="https://t.me/Shakil29">Telegram</a>
 - 📫 How to reach me: <a href="https://www.instagram.com/md_kaium_hossain">Instagram<a/>
