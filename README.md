@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/md_kaium_hossain"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
 
 
-[![shakil's github status](https://github-readme-stats.vercel.app/api?username=mdkaiom95&show_icons=true&count_private=true&hide_border=false&title_color=eb0029&icon_color=eb0029&include_all_commits=true)
+[![shakil's github status](https://github-readme-stats.vercel.app/api?username=mdkaiom95&show_icons=true&count_private=true&hide_border=false&title_color=eb0029&icon_color=eb0029&include_all_commits=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdkaiom95&layout=compact&hide_border=false&title_color=eb0029)](https://github.com/mdkaiom95) 
 <!-- <a href="https://t.me/AlpineProton"><img alt="..." src="https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40freakyos&labelColor=282c34&suffix=+members&color=eb0029&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3D#OGGANG&longCache=true"/></a> -->
 
